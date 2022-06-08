@@ -48,7 +48,7 @@ sudo make altinstall
 ### Install CodeDeploy Agent
 Run this on your current user. Example: /home/ubuntu
 ```bash
-sudo apt install update
+sudo apt update
 sudo apt install install ruby
 wget https://aws-codedeploy-us-east-1.s3.amazonaws.com/latest/install
 sudo chmod +x ./install
